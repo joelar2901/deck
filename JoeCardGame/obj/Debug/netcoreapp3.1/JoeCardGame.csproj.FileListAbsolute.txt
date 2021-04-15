@@ -1,0 +1,13 @@
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.csprojAssemblyReference.cache
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.AssemblyInfoInputs.cache
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.AssemblyInfo.cs
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.exe
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.deps.json
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.runtimeconfig.json
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.runtimeconfig.dev.json
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.dll
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\bin\Debug\netcoreapp3.1\JoeCardGame.pdb
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.dll
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.pdb
+C:\Users\joela\OneDrive\Documents\workshop\JoeCardGame\obj\Debug\netcoreapp3.1\JoeCardGame.genruntimeconfig.cache
