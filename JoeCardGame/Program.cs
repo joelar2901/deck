@@ -6,7 +6,7 @@ namespace JoeCardGame
     {
         static void Main(string[] args)
         {
-            deck newdeck = new deck();
+            deck newDeck = new deck();
             Drawcards(newdeck);
         }
         static void Drawcards(deck deck)
@@ -31,11 +31,11 @@ namespace JoeCardGame
                 {
                     Console.WriteLine("choose an answer please");
                 }
-
             }
+            
+            // this while loop will allow you to draw a card until,
+            // there are none left or you choose not to draw.
             while (true)
-                // this while loop will allow you to draw a card until,
-                // there are none left or you choose not to draw.
             {
                 Console.WriteLine("Draw a card?");
                 string answer = Console.ReadLine();
